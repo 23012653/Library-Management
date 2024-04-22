@@ -22,13 +22,12 @@ In this module the user can cancel their name which is registered for the Book.
 ### SOFTWARE REQUIRMENTS:
 Star UML
 ### STEPS
-```
 1.Download Star UML.
 2.Select Add model and select the model which you are going to draw.
 3.Draw the diagram.
 4.Save the diagram successfully.
 5.Execute it.
-### UML Diagrams:
+###UML Diagrams:
 ###DEVELOPED BY : ANUBHARATHI SS
 ###REGISTER NUMBER : 212223040017
 
@@ -46,6 +45,6 @@ Star UML
 ![WhatsApp Image 2024-04-22 at 10 53 21_bc88555c](https://github.com/23012653/Library-Management/assets/150777517/a7730543-e452-4d08-8673-de2a4c0c87f5)
 ###PACKAGE DIAGRAM
 ![WhatsApp Image 2024-04-22 at 10 52 22_412af65a](https://github.com/23012653/Library-Management/assets/150777517/aafd63b3-0901-4b4e-bed4-6dc58a0d1e1a)
-```
+
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
