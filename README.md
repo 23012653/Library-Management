@@ -23,10 +23,15 @@ In this module the user can cancel their name which is registered for the Book.
 Star UML
 ### STEPS
 1.Download Star UML.
+
 2.Select Add model and select the model which you are going to draw.
+
 3.Draw the diagram.
+
 4.Save the diagram successfully.
+
 5.Execute it.
+
 ## UML Diagrams:
 
 ## DEVELOPED BY : ANUBHARATHI SS
